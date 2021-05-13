@@ -33,7 +33,7 @@ Para cualquier duda se puede contactar a cualquiera de los contribuidores por el
 
 ## Contribuidores
 
-Diego Martínez A01176489
-David Martínez A00820087
-Luis Felipe Miranda A00820799
-Isamiri A00820784
+- Diego Martínez A01176489
+- David Martínez A00820087
+- Luis Felipe Miranda A00820799
+- Isamiri A00820784
