@@ -12,7 +12,7 @@ Una vez entrenado el modelo, muestra las métricas de evaluación para identific
 
 Con este código es posible crear distintos modelos capaces de hacer clasificaciones de objetos basados en el set de entrenamiento. Además, también cuenta con la posibilidad de hacer las evaluaciones de dichos modelos para hacer comparaciones entre las métricas de uno y otro.
 
-##Instalación
+## Instalación
 
 Para la realización de esta actividad se hizo uso de las siguientes herramientas:
 - Jupyter Notebook
